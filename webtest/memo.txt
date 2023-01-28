@@ -1,0 +1,3 @@
+2023/01/28
+"/WebContent"を削除。中身の"WEB-INF"と"META-INF"はルートは以下に置く。
+出ないと、/WEB-INF/web.xmlを読み込めないぽい。
