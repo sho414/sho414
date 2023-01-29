@@ -1,3 +1,33 @@
 2023/01/28
 "/WebContent"を削除。中身の"WEB-INF"と"META-INF"はルートは以下に置く。
 出ないと、/WEB-INF/web.xmlを読み込めないぽい。
+
+
+
+
+
+
+2023/01/29
+コンテキストファイル
+###
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<Context
+path="/webtest" reloadable="true"
+docBase="C:/pleiades/env/git-projects/webtest"
+workDir="C:/pleiades/env/git-projects/webtest/work">
+
+<Resource
+name="jdbc/test"
+auth="Container"
+type="javax.sql.DataSource"
+username="test" password="test"
+driverClassName="oracle.jdbc.driver.OracleDriver"
+url="jdbc:oracle:thin:@oraclelinux7:1521:ORA1"/>
+
+</Context>
+###
+
+
+
+
+
