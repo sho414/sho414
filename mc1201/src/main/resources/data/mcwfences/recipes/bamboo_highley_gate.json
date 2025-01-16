@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "highley",
+    
+    "pattern":
+    [
+		"ABA",
+		"ABA"
+    ],
+    
+    "key":
+    { 
+        "A":
+        {
+            "item": "minecraft:stick"
+        },    
+        
+        "B":
+        {
+            "item": "minecraft:stripped_bamboo_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwfences:bamboo_highley_gate",
+        "count": 1
+    }
+}
+
+
