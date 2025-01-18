@@ -1,8 +1,0 @@
-{
-	"parent": "mcwfences:block/parent/pillar_wall_side",
-	"textures": {
-		"particle": "minecraft:block/end_stone",
-		"1": "minecraft:block/end_stone",
-		"wall": "minecraft:block/end_stone_bricks"
-	}
-}

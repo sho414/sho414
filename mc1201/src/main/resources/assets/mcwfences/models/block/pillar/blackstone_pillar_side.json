@@ -1,8 +1,0 @@
-{
-	"parent": "mcwfences:block/parent/pillar_wall_side",
-	"textures": {
-		"particle": "minecraft:block/blackstone",
-		"1": "minecraft:block/blackstone",
-		"wall": "minecraft:block/polished_blackstone_bricks"
-	}
-}
