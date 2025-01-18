@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "compmod:block/deepslate_pillar_post"
+      }
+    }
+  ]
+}

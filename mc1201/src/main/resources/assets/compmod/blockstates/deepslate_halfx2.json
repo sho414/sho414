@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "compmod:block/deepslate_halfx2_bottom"
+    },
+    "type=top": {
+      "model": "compmod:block/deepslate_halfx2_top"
+    }
+  }
+}
