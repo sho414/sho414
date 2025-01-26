@@ -1,5 +1,7 @@
 	{
 	    "itemGroup.compmod": "yoshio'compMod",
 		"block.compmod.deepslate_pillar": "深層岩の柱",
-		"block.compmod.deepslate_halfx2": "深層岩のハーフx2"
+		"block.compmod.deepslate_halfx2": "深層岩のハーフx2",
+		"block.compmod.deepslate_halfx2c": "深層岩のハーフx2 中央",
+		"block.compmod.deepslate_halfvt": "深層岩のハーフVT"
 	}

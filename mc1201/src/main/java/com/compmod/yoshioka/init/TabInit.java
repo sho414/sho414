@@ -21,5 +21,7 @@ public class TabInit {
 			{
 				entries.accept(BlockInit.DeepslatePillar.get());
 				entries.accept(BlockInit.DeepslateHalfx2.get());
+				entries.accept(BlockInit.DeepslateHalfx2c.get());
+				entries.accept(BlockInit.DeepslateHalfvt.get());
 			}).build());
 }

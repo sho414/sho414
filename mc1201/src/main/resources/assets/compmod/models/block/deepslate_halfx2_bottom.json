@@ -1,6 +1,7 @@
 {
   "textures": {
-    "all": "minecraft:block/polished_deepslate"
+    "all": "minecraft:block/polished_deepslate",
+    "particle": "minecraft:block/polished_deepslate"
   },
   "elements": [
     {

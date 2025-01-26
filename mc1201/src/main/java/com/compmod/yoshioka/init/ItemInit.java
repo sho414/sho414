@@ -14,4 +14,6 @@ public class ItemInit {
 
 	public static final RegistryObject<Item> DeepslatePillar = ITEMS.register("deepslate_pillar", () -> new BlockItem(BlockInit.DeepslatePillar.get(),new Item.Properties()));
 	public static final RegistryObject<Item> DeepslateHalfx2 = ITEMS.register("deepslate_halfx2", () -> new BlockItem(BlockInit.DeepslateHalfx2.get(),new Item.Properties()));
+	public static final RegistryObject<Item> DeepslateHalfx2c = ITEMS.register("deepslate_halfx2c", () -> new BlockItem(BlockInit.DeepslateHalfx2c.get(),new Item.Properties()));
+	public static final RegistryObject<Item> DeepslateHalfvt = ITEMS.register("deepslate_halfvt", () -> new BlockItem(BlockInit.DeepslateHalfvt.get(),new Item.Properties()));
 }

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "compmod:block/deepslate_halfvt"
+    },
+    "facing=south": {
+      "model": "compmod:block/deepslate_halfvt",
+      "y":180
+    },
+    "facing=east": {
+      "model": "compmod:block/deepslate_halfvt",
+      "y":90
+    },
+    "facing=west": {
+      "model": "compmod:block/deepslate_halfvt",
+      "y":270
+    }
+  }
+}
