@@ -4,10 +4,8 @@
       "model": "compmod:block/deepslate_halfx2c_bottom"
     },
     "type=top": {
-      "model": "compmod:block/deepslate_halfx2c_top"
-    },
-    "type=double": {
-      "model": "compmod:block/deepslate_halfx2c_double"
+      "model": "compmod:block/deepslate_halfx2c_bottom",
+      "x": 180
     }
   }
 }
